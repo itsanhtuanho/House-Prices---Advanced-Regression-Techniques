@@ -1,2 +1,1 @@
-# Data-Science-Projects
-Compilation of data science projects
+# House Prices - Advanced Regression techniques
